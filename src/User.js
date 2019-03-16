@@ -31,7 +31,7 @@ export default () => (
       <Card.Content extra>
       <a>
       <Icon name='user' />
-        Read Now
+       <NavLink to ="/reading">Read Now</NavLink>
       </a>
     </Card.Content>
   </Card>

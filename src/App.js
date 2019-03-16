@@ -18,6 +18,7 @@ const App = () => (
         <Route path ="/login" component={Login}/>
         <Route path ="/register" component={Register} />
         <Route path ="/writing" component={Writing} />
+        <Route path ="/reading" component={Reading} />
       </Switch>
     </Container>
   </Fragment>

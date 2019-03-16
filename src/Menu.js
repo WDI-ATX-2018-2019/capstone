@@ -6,7 +6,7 @@ export default () => (
     <Menu>
     <Container>
       <Menu.Item as="a" name="Journaltastic">
-        Journaltastic
+        <NavLink to="/">Journaltastic</NavLink>
       </Menu.Item>
 
       <Menu.Menu position="right">
